@@ -1,0 +1,18 @@
+﻿  planet.cpp
+g:\project\opengl\planet\planet\planet.cpp(27): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(28): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(68): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(96): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(97): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(101): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(103): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(104): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(106): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+g:\project\opengl\planet\planet\planet.cpp(144): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+g:\project\opengl\planet\planet\planet.cpp(151): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+  GLM: rotate function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  GLM: perspective function taking degrees as a parameter is deprecated. #define GLM_FORCE_RADIANS before including GLM headers to remove this message.
+  planet.vcxproj -> G:\project\OpenGl\planet\Debug\planet.exe
+  planet.vcxproj -> G:\project\OpenGl\planet\Debug\planet.pdb (Partial PDB)
